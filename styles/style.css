@@ -1,0 +1,11 @@
+.root {
+  display: grid;
+  background-color: #f7ede8;
+}
+ul li {
+  font-size: 14px;
+  display: inline-block;
+  width: 20%;
+  margin: 0;
+  padding: 0;
+}
